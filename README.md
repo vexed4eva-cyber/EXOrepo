@@ -8,3 +8,4 @@ To add the repo you need scoop installed, and if you have it installed run
 
 if you would like to see somthing added add it here `[link to google form](https://forms.gle/5khZJbAUARJosTbz9)`:
 ```markdown
+[Google forms](https://forms.gle/5khZJbAUARJosTbz9)
