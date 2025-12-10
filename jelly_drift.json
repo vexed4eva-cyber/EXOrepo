@@ -1,0 +1,10 @@
+{
+  "version": "1.1",
+  "license": "Unknown",
+  "hash":  "0ec72765779ec7480957df3319ccc4a54130ccbf7043916d9507105368785ea1",
+  "url": "https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/upload2/game/954388/3486506?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20251210%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251210T204956Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=ecd55350591186a1e8a3343e9272619afa034a3efe93120f86b2b218d62ccffd",
+  "homepage": "https://danidev.itch.io/jelly-drift",
+  "shortcuts": [
+    ["JellyDrift64\\Jelly drift.exe", "Jelly Drift"]
+]   
+}
